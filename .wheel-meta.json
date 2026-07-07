@@ -1,0 +1,17 @@
+{
+  "wheel_id": 119,
+  "slug": "bcv-vc-150",
+  "project": "brisbane-conveyancers-bv-150",
+  "parent_t1_ref": "bcv-vc-001",
+  "node_role": "buffer",
+  "money_target": "brisbaneconveyancers.net.au",
+  "primary_kw": "brisbane conveyancers",
+  "intended_url": "https://sitesau.github.io/bcv-vc-150/",
+  "links": [
+    {
+      "target_url": "https://brisbane-conveyancers-guide.vercel.app",
+      "anchor": "brisbane conveyancers",
+      "rel": "follow"
+    }
+  ]
+}
